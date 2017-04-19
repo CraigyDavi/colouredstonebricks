@@ -1,5 +1,7 @@
 # [Coloured stone bricks](https://davison.io/minetest/colouredstonebricks) :video_game: [![](https://img.shields.io/travis/davisonio/colouredstonebricks.svg?style=flat-square)](https://travis-ci.org/davisonio/colouredstonebricks) [![](https://img.shields.io/gitter/room/davisonio/colouredstonebricks.svg)](https://gitter.im/davisonio/colouredstonebricks)
 
+[![Join the chat at https://gitter.im/davisonio/colouredstonebricks](https://badges.gitter.im/davisonio/colouredstonebricks.svg)](https://gitter.im/davisonio/colouredstonebricks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Coloured stone bricks mod for [Minetest](http://www.minetest.net)
 
 <p align="center">
